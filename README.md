@@ -1,1 +1,2 @@
- Exercise 3
+Exercise 3
+Analysis the dataset AMT
